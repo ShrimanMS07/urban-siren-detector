@@ -8,3 +8,7 @@ A real-time AI-powered system to detect and classify emergency sirens (ambulance
 ## How to Run
 ```bash
 streamlit run siren_detector_app.py
+## Demo Screenshot
+![App Interface](assets/screenshot_app.png)
+## Model Results
+![Confusion Matrix](assets/confusion_matrix.png)
